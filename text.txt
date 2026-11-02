@@ -1,0 +1,11 @@
+1. About me
+My name is Victor Jiao, I am an aspiring engineer in high school. I have made over 10 different hardware projects and 15 software projects. I work for the City of Waterloo as an instructor guard, and volunteer my time as a Technician and Youth Club Logistics Lead at the Waterloo Region Chinese Canadian Assosiation.
+
+2. Top Projects
+- SLAM Robot
+
+
+3. Github
+4. 
+
+If things don't work out, make them. 
